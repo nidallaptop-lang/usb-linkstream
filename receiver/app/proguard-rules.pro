@@ -1,0 +1,2 @@
+-keep class com.usbstream.receiver.** { *; }
+-dontwarn kotlin.**

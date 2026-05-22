@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Google AOA vendor ID -->
+    <usb-device vendor-id="0x18D1" />
+    <!-- Generic Android device -->
+    <usb-device />
+</resources>

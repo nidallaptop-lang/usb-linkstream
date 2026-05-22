@@ -1,0 +1,3 @@
+-keep class com.usbstream.sender.** { *; }
+-keep class androidx.camera.** { *; }
+-dontwarn androidx.camera.**
